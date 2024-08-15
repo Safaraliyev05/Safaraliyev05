@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,postgresql,django,docker,fastapi,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=python,postgresql,django,docker,fastapi,aws,pycharm,postman" /><br>
 </div>
 
 <br/>
