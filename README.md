@@ -71,9 +71,9 @@
 <hr/>
 
 <br/>
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Safaral1yev) 
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='[https://storage.ko-fi.com/cdn/kofi1.png?v=3](https://buymeacoffee.com/Safaral1yev)' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+  
 
 <br/>
